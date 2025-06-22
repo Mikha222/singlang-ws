@@ -2,7 +2,7 @@ flask
 flask-socketio
 eventlet
 opencv-python-headless
-mediapipe
+mediapipe==0.10.21
 tensorflow
 joblib
 Pillow
